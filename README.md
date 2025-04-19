@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+- 🔭 I’m currently working on many web development projects. My main focus is WordPress themes and plugin development. I also got front-end expertise. 
+- 🌱 I’m currently learning more abouts MCPs and AI agents and how to utilize them efficitenly in my workflow. 
+- 📫 How to reach me: You can send me a message to my Linkeid profile https://www.linkedin.com/in/josip-me%C5%A1trovi%C4%87/ or send me an email on info@e-com.hr.
+<!-- 
 **josipmestrovic/josipmestrovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
