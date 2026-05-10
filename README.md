@@ -1,7 +1,29 @@
 ### Hi, I'm Josip 👋
 
 I'm a PHP developer working mostly inside the WordPress and WooCommerce
-ecosystem. I think in modules and document as I go. I pay attention to versioning things properly and I take security seriously. 
+ecosystem. I think in modules and document as I go. I pay attention to versioning things properly and I take security seriously.
+
+On most projects I've also been the person doing the architectural
+decisions on the WordPress side — how data is modelled, how features
+talk to each other, what's a plugin vs. a theme module vs. an external
+service.
+
+#### Beyond writing code
+
+- **Product discovery** — sitting with clients (or their team) to turn
+  a vague "we need X" into a concrete feature list with edge cases
+  thought through before a single line of code gets written.
+- **Client meetings & feature communication** — explaining technical
+  trade-offs in plain language, scoping what's realistic, and
+  pushing back when a request will hurt the project later.
+- **WordPress architecture** — on most projects I've been the one
+  deciding how the site is structured: CPTs vs. custom tables, plugin
+  vs. theme module, where state lives, how features integrate with the
+  builder / ACF / WooCommerce, what stays in WP and what belongs
+  elsewhere.
+- **Project management** — I've led delivery on a few high-end builds
+  end-to-end: planning, breaking work down, coordinating with
+  designers, keeping the client in the loop, shipping on time.
 
 #### What I actually do day to day
 
@@ -24,6 +46,11 @@ ecosystem. I think in modules and document as I go. I pay attention to versionin
 - Take a **Figma / XD design and turn it into pixel-perfect, responsive
   HTML / CSS / JS** that holds up when content editors update copy and
   images later.
+- **Site migrations & basic server work** — moving WordPress sites
+  between hosts (files, DB, serialized search/replace, DNS cutover),
+  comfortable on the command line over SSH, working with git in real
+  team workflows (branches, tags, conflict resolution, deploy by pull).
+  I'm not a full-time sysadmin, but I won't break the box.
 
 #### The stack I reach for
 
@@ -57,6 +84,8 @@ and IDE autocomplete — to type faster, not to decide what to build.
   there.
 - Teams that already have a designer and need someone to ship the
   build — pixel-perfect, responsive, accessible.
+- Projects that need someone to own the WordPress side end-to-end —
+  from discovery and architecture through to shipping.
 
 #### Get in touch
 
