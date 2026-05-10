@@ -1,18 +1,12 @@
-## Hi there 👋
-
 ### Hi, I'm Josip 👋
 
 I'm a PHP developer working mostly inside the WordPress and WooCommerce
-ecosystem. Most of what I ship are small, self-contained modules that
-solve one specific business problem — versioned, documented, and easy
-for a site owner to drop in and pull updates from.
+ecosystem.
 
 #### What I actually do day to day
 
-- Build **custom WordPress / WooCommerce features** from scratch when a
-  project needs it — or **plug my own code into existing themes, page
-  builders (Divi, Elementor) and plugins (ACF, etc.)** when extending
-  is the smarter call.
+- Build **custom WordPress / WooCommerce features** from scratch or **plug my own code into existing themes, page
+  builders (Divi, Elementor) and plugins (ACF, etc.)**.
 - Build **admin tooling** — custom DB tables, `WP_List_Table` panels,
   AJAX flows, status workflows with audit trails, smart search and
   filters — when the standard CPT + postmeta combo isn't enough.
@@ -51,8 +45,8 @@ for a site owner to drop in and pull updates from.
   README, a version, and a clean install line — so it can be dropped
   into another site without manual wiring.
 - I **document as I go**. Every module I build has a README explaining
-  what it does, the public surface, ACF / DB dependencies, and how to
-  extend it — for the next person, including future me.
+  what it does, the public surface, dependencies, and how to
+  extend it - for the next person but in reality it's mostly future me.
 - I **version things properly** (semver, tags, changelogs) so other
   sites can pull updates safely or pin to a known-good version.
 - I take **security seriously** — nonces, capability checks, prepared
