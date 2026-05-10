@@ -1,7 +1,7 @@
 ### Hi, I'm Josip 👋
 
 I'm a PHP developer working mostly inside the WordPress and WooCommerce
-ecosystem.
+ecosystem. I think in modules and document as I go. I pay attention to versioning things properly and I take security seriously. 
 
 #### What I actually do day to day
 
@@ -36,22 +36,8 @@ ecosystem.
   traps, Pointer Events, IntersectionObserver, Swiper init, drag and
   swipe gestures. No framework worship.
 - **HTML / CSS** — yeah, that too. Mobile-first, BEM-ish, CSS
-  variables, accessibility-aware (ARIA, keyboard nav,
-  `prefers-reduced-motion`), no surprises.
+  variables, accessibility-aware 
 
-#### How I work
-
-- I **think in modules**. Each feature ships as its own folder with a
-  README, a version, and a clean install line — so it can be dropped
-  into another site without manual wiring.
-- I **document as I go**. Every module I build has a README explaining
-  what it does, the public surface, dependencies, and how to
-  extend it - for the next person but in reality it's mostly future me.
-- I **version things properly** (semver, tags, changelogs) so other
-  sites can pull updates safely or pin to a known-good version.
-- I take **security seriously** — nonces, capability checks, prepared
-  statements, enum whitelisting, escape-on-output, honeypots. Not as
-  an afterthought, as part of the build.
 
 #### About AI
 
@@ -71,7 +57,6 @@ and IDE autocomplete — to type faster, not to decide what to build.
   there.
 - Teams that already have a designer and need someone to ship the
   build — pixel-perfect, responsive, accessible.
-- Internal tools, CRMs, and admin dashboards living inside `wp-admin`.
 
 #### Get in touch
 
